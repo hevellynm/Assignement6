@@ -7,6 +7,8 @@ public class SortingAndSearchingTests {
         int target1 = 16;
         int target2 = 30;
 
+
+
         System.out.println("=== Bubble Sort Test ===");
         int[] bubbleTestArray = numbers1.clone();
         SortingAndSearchingApp.bubbleSort(bubbleTestArray);
